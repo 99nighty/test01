@@ -8,6 +8,5 @@
 ```
 안녕하세요123
 ```
-.
-Code Ready
+
 Commit 연습용
